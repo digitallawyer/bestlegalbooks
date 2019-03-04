@@ -5,6 +5,27 @@ title: Home
 
 {% if page.url == "/" %}
 
+<!-- Collections
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Collections</span><div class="float-right"><a href="/collections">See all</a></div></h2>
+    </div>
+    <div class="row">
+        
+    {% for post in site.posts limit:2 %}
+
+        {% if post.list == true %}
+
+            {% include list.html %}
+
+        {% endif %}
+
+    {% endfor %}
+        
+    </div>
+</section>
+
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">

@@ -1,0 +1,36 @@
+<!-- begin post -->
+<div class="col-md-6 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="row h-100">
+            <div class="col-lg-5 col-md-12 pr-lg-0">
+                <div class="h-100">
+                    <div class="wrapthumbnail">
+                        <a href="{{ post.url | absolute_url }}">
+                            <span class="thumbnail d-block" style="background-image:url({% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %});">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-12">
+                <div class="h-100 card-group">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">
+                                <a class="text-dark" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                                {% if post.rating %}
+                                <div class="mb-2 mt-2 font-weight-normal">
+                                {% include star_rating_postbox.html %}
+                                </div>
+                                {% endif %}
+                            </h2>
+                            
+                            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->

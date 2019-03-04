@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Best Legal Books
 permalink: /about
 comments: true
 ---
