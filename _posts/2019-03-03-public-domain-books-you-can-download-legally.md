@@ -4,8 +4,8 @@ title:  "Public Domain Books You Can Download Legally"
 author: "Best Legal Books"
 categories: [ Public Domain ]
 image: assets/images/publicdomain.png
-author_image: assets/images/grisham.jpg
-author_description: "Alexander Hamilton was an American statesman and one of the Founding Fathers of the United States. He was an influential interpreter and promoter of the U.S. Constitution, as well as the founder of the nation's financial system, the Federalist Party, the United States Coast Guard, and the New York Post newspaper."
+author_image: assets/images/shelley.png
+author_description: "Mary Wollstonecraft Shelley (née Godwin; 30 August 1797 – 1 February 1851) was an English novelist, short story writer, dramatist, essayist, biographer, and travel writer, best known for her Gothic novel Frankenstein; or, The Modern Prometheus (1818)."
 featured: false
 hidden: true
 list: true
@@ -18,7 +18,7 @@ In this collection, we highlight some of the best books that are in the public d
 
 * [Pride and Prejudice](/pride-and-prejudice/) by Jane Austen
 * [A Tale of Two Cities](/a-tale-of-two-cities/) by Charles Dickens
-* Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley
+* [Frankenstein; Or, The Modern Prometheus](/frankenstein-or-the-modern-prometheus/) by Mary Wollstonecraft Shelley
 * A Modest Proposal by Jonathan Swift
 * Alice's Adventures in Wonderland by Lewis Carroll
 * Moby Dick; Or, The Whale by Herman Melville
