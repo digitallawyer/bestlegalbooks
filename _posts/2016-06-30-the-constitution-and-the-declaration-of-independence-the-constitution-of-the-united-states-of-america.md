@@ -6,8 +6,8 @@ categories: [ Constitutional Law, Non-Fiction ]
 image: assets/images/11.jpg
 author_image: assets/images/skousen.jpg
 author_description: "Jay M. Feinman is an expert in insurance law, torts, and contract law. The recipient of numerous teaching awards,he’s also written seven books and more than 60 scholarly articles."
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 purchase_url: "https://amzn.to/2SJ2cv2"
 ---

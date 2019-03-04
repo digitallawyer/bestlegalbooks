@@ -6,8 +6,8 @@ categories: [ Constitutional Law, Non-Fiction ]
 image: assets/images/12.jpg
 author_image: assets/images/hamilton.jpg
 author_description: "Alexander Hamilton was an American statesman and one of the Founding Fathers of the United States. He was an influential interpreter and promoter of the U.S. Constitution, as well as the founder of the nation's financial system, the Federalist Party, the United States Coast Guard, and the New York Post newspaper."
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 purchase_url: "https://amzn.to/2tO2vuI"
 ---
