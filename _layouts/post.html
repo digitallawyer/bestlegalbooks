@@ -38,7 +38,7 @@ post_class: post-template
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1> 
                 {% if page.purchase_url %}             
-                    <a href="{{ page.purchase_url }}" class="btn btn-warning">Purchase this book</a>
+                    <a href="{{ page.purchase_url }}" target="_blank" class="btn btn-warning">Purchase this book</a>
                 {% endif %}
 
 
@@ -50,7 +50,16 @@ post_class: post-template
 			</div>
 
             <!-- Post Featured Image -->
-            {% if page.image %}<img class="featured-image img-fluid" style="width:100%" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | relative_url }}{% endif %}" alt="{{ page.title }}">{% endif %}
+            {% if page.image %}
+                {% if page.purchase_url %}
+                <a href="{{ page.purchase_url }}" target="_blank">
+                    <img class="featured-image img-fluid" style="width:100%" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | relative_url }}{% endif %}" alt="{{ page.title }}">
+                </a>
+                {% else %}
+                <img class="featured-image img-fluid" style="width:100%" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | relative_url }}{% endif %}" alt="{{ page.title }}">
+                {% endif %}
+            {% endif %}
+
             <!-- End Featured Image -->
             
             <!-- Rating -->

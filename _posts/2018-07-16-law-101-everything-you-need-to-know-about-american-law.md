@@ -9,7 +9,7 @@ author_description: "Jay M. Feinman is an expert in insurance law, torts, and co
 featured: true
 hidden: true
 rating: 4.5
-purchase_url: "https://amzn.to/2HdbFIX"
+purchase_url: "https://amzn.to/2SF9YGn"
 ---
 In this fifth edition of his bestselling classic, Jay Feinman provides an authoritative and up-to-date overview of the American legal system. In the years since the publication of the fourth edition, there have been many important developments on the legal front. The Supreme Court has issued important decisions on presidential powers, freedom of religion, and personal liberty. Police shootings and the rise of Black Lives Matter has impacted the court system too. The rise of arbitration at the expense of jury trials has affected the rights of consumers, and internet law remains in a state of constant change.
 
