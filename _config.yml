@@ -4,7 +4,7 @@ title: "Best Legal Books"
 description: "Find and download the best legal books ever written"
 meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: 
 google_analytics: 'UA-121997989-2'
 disqus: 'demowebsite'
