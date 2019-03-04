@@ -17,7 +17,7 @@ The public domain consists of creative works to which no exclusive intellectual 
 In this collection, we highlight some of the best books that are in the public domain, which means that you can download them legally.
 
 * [Pride and Prejudice](/pride-and-prejudice/) by Jane Austen
-* A Tale of Two Cities by Charles Dickens
+* [A Tale of Two Cities](/a-tale-of-two-cities/) by Charles Dickens
 * Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley
 * A Modest Proposal by Jonathan Swift
 * Alice's Adventures in Wonderland by Lewis Carroll
