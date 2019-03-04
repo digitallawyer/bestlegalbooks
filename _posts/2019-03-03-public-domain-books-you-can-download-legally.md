@@ -26,7 +26,10 @@ A Tale of Two Cities (1859) is a historical novel by Charles Dickens, set in Lon
 
 Frankenstein; or, The Modern Prometheus is a novel written by English author Mary Shelley (1797–1851) that tells the story of Victor Frankenstein, a young scientist who creates a hideous, sapient creature in an unorthodox scientific experiment. Shelley started writing the story when she was 18, and the first edition of the novel was published anonymously in London on 1 January 1818, when she was 20.
 
-* A Modest Proposal by Jonathan Swift
+**[A Modest Proposal](/a-modest-proposal) by Jonathan Swift**
+
+A Modest Proposal For preventing the Children of Poor People From being a Burthen to Their Parents or Country, and For making them Beneficial to the Publick, commonly referred to as A Modest Proposal, is a Juvenalian satirical essay written and published anonymously by Jonathan Swift in 1729. The essay suggests that the impoverished Irish might ease their economic troubles by selling their children as food for rich gentlemen and ladies. This satirical hyperbole mocked heartless attitudes towards the poor, as well as British policy toward the Irish in general.
+
 * Alice's Adventures in Wonderland by Lewis Carroll
 * Moby Dick; Or, The Whale by Herman Melville
 * Heart of Darkness by Joseph Conrad
