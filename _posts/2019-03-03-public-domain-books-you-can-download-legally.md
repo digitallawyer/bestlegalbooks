@@ -12,13 +12,20 @@ list: true
 
 ---
 
-The public domain consists of creative works to which no exclusive intellectual property rights apply. The works of William Shakespeare and Beethoven, and most early silent films, are in the public domain either by virtue of their having been created before copyright existed, or by their copyright term having expired. 
+The public domain consists of creative works to which no exclusive intellectual property rights apply. In this collection, we highlight some of the best books that are in the public domain, which means that you can download them legally.
 
-In this collection, we highlight some of the best books that are in the public domain, which means that you can download them legally.
+**[Pride and Prejudice](/pride-and-prejudice/) by Jane Austen**
 
-* [Pride and Prejudice](/pride-and-prejudice/) by Jane Austen
-* [A Tale of Two Cities](/a-tale-of-two-cities/) by Charles Dickens
-* [Frankenstein; Or, The Modern Prometheus](/frankenstein-or-the-modern-prometheus/) by Mary Wollstonecraft Shelley
+Pride and Prejudice is an 1813 romantic novel by Jane Austen. It charts the emotional development of the protagonist Elizabeth Bennet, who learns the error of making hasty judgments and comes to appreciate the difference between the superficial and the essential. The comedy of the writing lies in the depiction of manners, education, marriage and money during the Regency era in Britain.
+
+**[A Tale of Two Cities](/a-tale-of-two-cities/) by Charles Dickens**
+
+A Tale of Two Cities (1859) is a historical novel by Charles Dickens, set in London and Paris before and during the French Revolution. The novel tells the story of the French Doctor Manette, his 18-year-long imprisonment in the Bastille in Paris and his release to live in London with his daughter Lucie, whom he had never met. The story is set against the conditions that led up to the French Revolution and the Reign of Terror.
+
+**[Frankenstein; Or, The Modern Prometheus](/frankenstein-or-the-modern-prometheus/) by Mary Wollstonecraft Shelley**
+
+Frankenstein; or, The Modern Prometheus is a novel written by English author Mary Shelley (1797–1851) that tells the story of Victor Frankenstein, a young scientist who creates a hideous, sapient creature in an unorthodox scientific experiment. Shelley started writing the story when she was 18, and the first edition of the novel was published anonymously in London on 1 January 1818, when she was 20.
+
 * A Modest Proposal by Jonathan Swift
 * Alice's Adventures in Wonderland by Lewis Carroll
 * Moby Dick; Or, The Whale by Herman Melville
