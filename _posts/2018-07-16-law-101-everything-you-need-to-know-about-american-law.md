@@ -2,7 +2,7 @@
 layout: post
 title:  "Law 101: Everything You Need to Know About American Law, Fifth Edition"
 author: "Jay M. Feinman"
-categories: [ Jekyll, tutorial, web development ]
+categories: [ Non-fiction ]
 image: assets/images/law101.jpg
 author_image: assets/images/feinman.jpg
 author_description: "Jay M. Feinman is an expert in insurance law, torts, and contract law. The recipient of numerous teaching awards,he’s also written seven books and more than 60 scholarly articles."
