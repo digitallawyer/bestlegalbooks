@@ -2,7 +2,7 @@
 layout: post
 title:  "Pride and Prejudice"
 author: "Jane Austen"
-categories: [ Non-Fiction ]
+categories: [ Fiction, Public Domain ]
 image: assets/images/prideandprejudice.jpg
 author_image: assets/images/janeaustin.jpg
 author_description: "Jane Austen was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century. Austen's plots often explore the dependence of women on marriage in the pursuit of favourable social standing and economic security."
