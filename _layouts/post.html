@@ -55,7 +55,7 @@ post_class: post-template
             <!-- Post Featured Image -->
             {% if page.image %}
                 {% if page.purchase_url %}
-                <a href="{{ page.purchase_url }}" target="_blank">
+                <a href="{{ page.purchase_url }}" target="_blank" onclick="ga('send', 'event', 'cover image', 'click', '{{ page.title }}');>
                     <img class="featured-image img-fluid" style="width:100%" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | relative_url }}{% endif %}" alt="{{ page.title }}">
                 </a>
                 {% else %}
