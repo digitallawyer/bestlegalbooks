@@ -10,6 +10,7 @@ featured: false
 hidden: false
 rating: 4.5
 purchase_url: "https://amzn.to/2tO2vuI"
+download_url: /assets/pdf/the-federalist-papers.pdf
 ---
 
 The Federalist (later known as The Federalist Papers) is a collection of 85 articles and essays written by Alexander Hamilton, James Madison, and John Jay promoting the ratification of the United States Constitution. Seventy-seven were published serially in The Independent Journal and The New York Packet between October 1787 and August 1788. 
